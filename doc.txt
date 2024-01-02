@@ -1,4 +1,5 @@
-https://guidemeeducation.in/exams
+https://guidemeeducation.in/
+/home/pc-124/Desktop/guideme/resources/views/site/pages/exams.blade.php
 
 <title> Exams  | Guide Me</title>
 
