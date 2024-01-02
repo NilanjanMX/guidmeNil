@@ -1,0 +1,14 @@
+https://guidemeeducation.in/exams
+
+<title> Exams  | Guide Me</title>
+
+<meta name="description" content="">
+
+
+https://guidemeeducation.in/colleges
+
+/home/pc-124/Desktop/guideme/resources/views/site/pages/exams.blade.php
+
+<title>Search the Perfect College for You | Guide Me Education</title>
+
+<meta name="description" content="Explore a world of educational opportunities at GuideMeEducation.in. Discover top colleges, courses, facilities and make the right choice for your future.">
