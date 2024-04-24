@@ -18,3 +18,5 @@ https://guidemeeducation.in/colleges
 4/apr/2024 filter
 
 /home/pc-124/Desktop/guideme/app/Http/Controllers/Admin/FiltersController.php
+------------------------------------------------------- 14-4-2024
+https://guidemeeducation.in/colleges?totalFees%5B%5D=93 // college fees filter page
